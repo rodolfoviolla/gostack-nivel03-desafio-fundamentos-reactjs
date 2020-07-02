@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "acorn": "^7.1.1",
     "axios": "^0.19.2",
     "filesize": "^6.1.0",
     "history": "^4.10.1",
@@ -13,7 +14,8 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
     "styled-components": "^5.1.0",
-    "typescript": "~3.7.2"
+    "typescript": "~3.7.2",
+    "websocket-extensions": "^0.1.4"
   },
   "scripts": {
     "start": "react-app-rewired start",
